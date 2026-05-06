@@ -1,0 +1,24 @@
+body{
+    font-family: Arial;
+    background-color:blueviolet;
+    margin: 0;
+    text-align: center;
+}
+ .card{
+   background-color: bisque;
+   width: 250px;
+   margin: 20px auto;
+   padding: 20px;
+   border-redius: 15px 
+   box-shadow: 5px 5px 15px rgba(0,0,0,0.5)
+
+
+
+
+    }
+
+
+
+
+
+}
